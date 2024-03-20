@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/malanep/finding-and-visualizing-missing-data-in-python
+https://medium.com/analytics-vidhya/data-understanding-101-exploratory-data-analysis-using-python-2ad259d74a05
+https://github.com/ResidentMario/missingno
+https://pandas.pydata.org/docs/reference/api
